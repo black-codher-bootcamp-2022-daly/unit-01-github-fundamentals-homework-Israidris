@@ -6,7 +6,7 @@
 |----|-----|-------| 
 |Isra|Isra@example.com|Birmingham|
 
-### Creating a ordered list + subs with black background: 
+### Creating a ordered list and subs with black background: 
 
 1. Cake
   
