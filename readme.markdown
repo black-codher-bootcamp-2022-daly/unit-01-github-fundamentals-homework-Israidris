@@ -1,5 +1,30 @@
 # **_What have I learned this far?_**
 
+### The difference between Git and GitHub:
+
+Git: Is a version control system that stores different variations of a codebase on a computer. While GitHub is a distributed version control system (DVCS) and source code management (SCM), its opne source aspect allows for collaborations. GitHub also lets you manage git reposotories and it is also cloud based. 
+
+### Command Line and Git:
+Different comanlines such as:
+- mkdir = to create new folder/directory
+- pwd = allows uou to see which directory you are working on.
+- cd .. = takes you back to previous location
+- mv = moves files between directories
+- ls - will list the contect of a directory
+- rm = removes a file 
+- rm -r = removes adirectory 
+- code = opens visual studio code
+- touch = creates a new black file
+
+### `Git commands you need to push code into GitHub:`
+```
+1. git status
+2. git add .
+3. git commit -m "description of change"
+4. git push 
+```
+## Different Markdown styles:
+
 ### Creating a table with contact information as below:
 
 |Name|Email|Address|
@@ -33,14 +58,6 @@
 - [x] Complete Git assessment
 - [x] Mention one of the assessers 
 - [x] Push to github
-
-### Git commands you need to push code into GitHub:
-```
-1. git status
-2. git add .
-3. git commit -m "description of change"
-4. git push 
-```
 
 `Isra Idris wrote this markdown file`
 
